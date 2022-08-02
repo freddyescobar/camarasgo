@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-camaras",
+  "private_key_id": "5e59e6478dcd7112b33d8ee9922107ea2b042fea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpr9cqyX7IIqIr\nP1wJwafcWuXfxLtLIGRfApjRoBVVlirD5jB7VymgFy1WEzU+RzobuKBTGPbtqBEB\ntL97oCrvHizy/rnmuUX6QjMc2Si4okms7FXjIX7p7XXTOYpzl7lghcIsG/tvNUkM\nU4L0ETv2F61sutFM+oP73o6/QpNL4ZMfBC/L5Bh0+UFk29ECNW8DVcp88OH1ljjs\npruxHGknabO6NHPMeCO3F/nPPF4HTVoHkWksAz+tMA6ebUmURhaqzBYbYTn1AIna\nGLVSOctWXT+dYs3zweUnPAn5D8PU4cTcmV3U6abkL5mmjbfmnrxHGLGu/QrO+CjA\nw3Q6MqFLAgMBAAECggEASrbuplvXU5cQUbuRsogO+dMaQXeVwkQOfdkeYbq7ehZn\nWR+LfFuKK//YifxmJrhlCRy3ly84Vrd4WYh1AaGqFeRzBUGMqF8uxT0N1Wd26ykm\nCJp9TMeMYsMYbLt6z1/gk3QB5bsicDqFogRJdl76SGbviR8PFnZ909KQhv1w7uk5\nqovCKP2JFvgKuX97/Qa8I3L5C0NOueuiAX+ihE3rbdaDrTDUPNL/ctmsdQqWxU/K\nyd4+HrMTwUuRg0gLgS8LDHARilDqzcFUNTD9XfK+yA/10kNRuarw7DQMUJJ4IKxW\n7ka4M+WMXndZspCpPIa3uuJf3Vnf9gbwQJ0MMOKO7QKBgQDdDPDd+KAhlUdKyIm+\nyllqJN2AtlVktTcyOtHm7thztcfMIK1FReUwNIHkySFLy5HW1wMXqESVZfniYn+k\nIEAP4Wn/6GJF1rHRsDf0qqHpZ4BGJD2UVq22UMcqWkSge+xrDEumtx0WJV2+hS0T\nbvkcwWrffbwwQudXPvtqBMFg3wKBgQDEg/IyNH/pppxFVNY1Jkq70vMDDf9edN1y\nCdgYfR4DaypmtoUfyxBx31htUL27R8VAoUNwUkVthwIN9QE0lEwuHllILqLN7fcx\nkvjkL315e14b3tRBT0mp9ZddndHOwtS74MfxPuslwnSCPkg1LEVTSL+rFJioDS/F\n4EBNr5UxFQKBgQDHaPItPCmwwgrTQr9IVyB8aY9Mmq/ELtoBPSC39EVddOItmljV\nAi2z49o9+tdHmfgRWFvYzpo4MAtRl0vQUquX5+CI1Ck7GWfGYvLHi9qORSlpnS3U\nELGao5pX8aCxKbnoA+qHFe9uV/0ObvNv8Y9WyoFP5gyLeP9bLFz/khSk/wKBgQCG\nhUP/tgxxpwmGNELF80ZpOEf9qVFMGXeVHsP8T3mCIZPO59ZNIzZInPjtK74VO1X9\nneaKNucryKVRZIvEsFdNopy/Wp07llAGcXNK0G91/0s2jNyDMIFehK1u+h+rB5eU\nXJTBwa46FNioZ3YKYBm8nyoFNH4jW5N+QroB89WO2QKBgEdTOpORz1Ga14RhhgQS\nwLEeMJDFYm339SG5SKtG8VqNw550/JFhfn9e084EeY7xQyTYj4Qtj0OQBF+Z7hAx\nqYawfB0DqLt/dIKXclnKy+RxzISDgowkbvks46qHXl1cogrYwqszb6VkI07cHvAt\npj5I6YluwbNKXQ5G4RpZLOtz\n-----END PRIVATE KEY-----\n",
+  "client_email": "encoder-exemplo@video-camaras.iam.gserviceaccount.com",
+  "client_id": "101231548454503049726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/encoder-exemplo%40video-camaras.iam.gserviceaccount.com"
+}
